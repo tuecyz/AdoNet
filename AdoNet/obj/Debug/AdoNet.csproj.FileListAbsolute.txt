@@ -1,0 +1,11 @@
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.frmAdoNet.resources
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.Properties.Resources.resources
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.GenerateResource.cache
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\tuecy\OneDrive\Masaüstü\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
